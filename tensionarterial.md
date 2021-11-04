@@ -110,6 +110,12 @@ Este proyecto utiliza Raspberry Pi 3 B+ para recibir los datos del sensor de pre
 
 Después de convertir los valores, los datos se clasifican comparando los datos de presión arterial sistólica y diastólica de acuerdo con el formato estándar. Para enviar el informe por correo electrónico, se guardan los datos convertidos en formato de texto. Después de ordenar, el archivo se adjuntará al correo electrónico mediante la creación de detalles del asunto basados en los datos de presión arterial. Para el correo electrónico, se utilizó la biblioteca SMTP.
 
+## Limitaciones
+
+1. Una de las principales limitaciones que tiene este proyecto, es que es un poco costoso de realizar y a veces puede resultar mejor comprar el medidor de presión arterial ya hecho.
+1. Puede que alguno de los componentges falle y que sea difícil de cambiarlo o inclusive de encontralo.
+1. La interfaz no es la más cómoda que pueda existir, si es un proyecto funcional pero puede que existan muchas mejores alternativas para adquirir este dispositivo.
+
 ## Referencias
 [Interfaz del sensor de presión](https://www.hackster.io/vinayyn/blood-pressure-sensor-interfacing-with-raspberry-pi-970f82)
 
