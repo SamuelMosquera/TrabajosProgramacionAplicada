@@ -1,8 +1,38 @@
-#TÍTULO DEL PROYECTO
+# INTERFAZ DEL SENSOR DE PRESIÓN ARTERIAL CON RASPBERRY PI
 
-##Introducción
-El autor dice
+*El que solo sabe de medicina, ni medicina sabe*
+> José de Letamendi y Manjarrés.
+![GitHub Logo](https://es.wikipedia.org/wiki/José_de_Letamendi#/media/Archivo:Josep_Letamendi_Manjarres.jpg)
 
-<Este proyecto es muy fácil de realizar
+## Introducción
+Medición de la presión arterial y sistema de envío de informes detallados por correo electónico usando Raspberry Pi.
 
-##Procedimiento
+<Este proyecto es un poco complicado de realizar.
+
+## RECURSOS:
+      
+* COMPONENTES DE HARDWARE:
+
+  * Raspberry Pi Modelo B.
+  * Regulador lineal (7805).
+  * Condensador electrolítico 470 uF.
+  * LED de 5 mm rojo.
+  * Puente rectificador.
+  * Sensor de presión arterial.
+  * Resistencia de orificio pasante 470 ohmios.
+  * DC POWER JACK 2.1MM.
+  * Adaptador cc de 5 voltios y 2 amperios para Raspberry pi.
+
+* ALICACIONES DE SOFTWARE Y SERVICIOS EN LÍNEA:
+
+  * Raspberry Pi Raspbian:
+
+* HERRAMIENTAS MANUALES Y MÁQUINAS DE FABRICACIÓN:
+
+  * Soldador (genérico).
+  * Alambre de soldadura sin plomo.
+  * Fuente de soldadura, soldadura.
+
+## Procedimiento
+
+## Limitaciones del proyecto
